@@ -4,4 +4,4 @@ Projeto de um "Tinder" para Desenvolvedores utilizando Node.Js no back e React n
 
 Tecnologias: Node.JS e React
 
-![Alt text](/example-tindev.png?raw=true "Print Tela Inicial do Site")
+![Alt text](/example_tindev.png?raw=true "Print Tela Inicial do Site")
